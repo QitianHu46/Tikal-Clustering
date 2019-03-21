@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ESRI_ItemInformation Culture='en-US'>
+<name>Tikal_residences</name>
+<guid>6823CD00-B97D-4E94-ADDD-6552A28F27C5</guid>
+<catalogpath></catalogpath>
+<snippet>Three layers showing 1) individual residential structures; 2) footprints of the platforms on which residential structures are built and grouped; and 3) neighborhood boundaries based on a 15-cluster K-means clustering solution.</snippet>
+<description></description>
+<summary>Three layers showing 1) individual residential structures; 2) footprints of the platforms on which residential structures are built and grouped; and 3) neighborhood boundaries based on a 15-cluster K-means clustering solution.</summary>
+<title>Tikal_residences</title>
+<tags>Residences, platforms, neighborhoods</tags>
+<type>Layer Package</type>
+<typekeywords>
+<typekeyword>Shapefile Feature Class</typekeyword>
+<typekeyword>Layer Package</typekeyword>
+<typekeyword>Data</typekeyword>
+<typekeyword>ArcMap</typekeyword>
+<typekeyword>ArcGlobe</typekeyword>
+<typekeyword>ArcGIS Explorer</typekeyword>
+<typekeyword>lpk</typekeyword>
+</typekeywords>
+<thumbnail>thumbnail/thumbnail.png</thumbnail>
+<documentation></documentation>
+<url></url>
+<datalastmodifiedtime></datalastmodifiedtime>
+<extent>
+<xmin>-89.6466368600599</xmin>
+<ymin>17.2051259919906</ymin>
+<xmax>-89.6096168363224</xmax>
+<ymax>17.240947131519</ymax>
+</extent>
+<spatialreference>CRASS_EquidistantConic</spatialreference>
+<accessinformation></accessinformation>
+<licenseinfo></licenseinfo>
+</ESRI_ItemInformation>
